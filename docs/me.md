@@ -7,3 +7,5 @@
 - 拉你进`程序员唠嗑群`和志同道合的小伙伴交流（备注：交流）
 
 <img style="width: 200px;height:200px;" :src="$withBase('/img/kasong555.jpeg')" alt="30sec">
+
+- googd
